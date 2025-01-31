@@ -1,0 +1,75 @@
+h1{
+    font-weight: 3px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-decoration: underline;
+
+}
+
+
+img{
+   height: 300px;
+   width: 700px;
+   background-size: cover;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   background-color: pink;
+   
+}
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+   display: inline-block;
+   border: solid rgba(218, 75, 23, 0.69);
+  border-radius: 50%;
+ cursor: pointer;
+ margin: 3px;
+}
+
+#white{
+  background-color: white;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#color-switcher{
+    display: flex;
+    margin: 5px;
+    justify-content: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
